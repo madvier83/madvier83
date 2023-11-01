@@ -7,9 +7,13 @@ I'm a student at STMIK Mardira Indonesia.
  
 ## 🛠 Skills  
 - Programming Language
-
-  Dart, Javascript, PHP, SQL, Java, C++,
   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+          
+
 - Framework & Library
 
   Flutter, Bloc, Provider,
@@ -20,6 +24,9 @@ I'm a student at STMIK Mardira Indonesia.
 - Platform & Tools
 
   Firebase, Figma, Git, Vercel, Vultr.
+
+
+
 
 
 ## 🔭 More Information
@@ -38,18 +45,3 @@ I'm a student at STMIK Mardira Indonesia.
     
 ⚡️ Fun fact, im a fast learner
     
-
-<!--
-**madvier83/madvier83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
