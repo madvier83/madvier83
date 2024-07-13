@@ -3,7 +3,7 @@ Fullstack Web Developer, From Bandung, Indonesia.
 
 
 
-# Skills
+## Skills
 <div>
   <img src="https://svgl-badge.vercel.app/api/Language/HTML5?theme=dark" />
   <img src="https://svgl-badge.vercel.app/api/Language/CSS?theme=dark" />
@@ -31,10 +31,10 @@ Fullstack Web Developer, From Bandung, Indonesia.
 
 
 
-# Visit my portfolio
+## Visit my portfolio
 - [advierifaldy.vercel.app](https://advierifaldy.vercel.app/)
 
-# Contact
+## Contact
 
 - [Whatsapp](https://api.whatsapp.com/send?phone=082376932445) - [0823 7693 2445](https://api.whatsapp.com/send?phone=082376932445)
 - [Email](mailto:madvier83@gmail.com) - [madvier83@gmail.com](mailto:madvier83@gmail.com)
