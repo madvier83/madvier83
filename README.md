@@ -31,7 +31,8 @@ Fullstack Web Developer, From Bandung, Indonesia.
 
 
 
-# [Visit my portfolio](https://advierifaldy.vercel.app/) &rarr; [advierifaldy.vercel.app](https://advierifaldy.vercel.app/)
+# Visit my portfolio
+- [advierifaldy.vercel.app](https://advierifaldy.vercel.app/)
 
 # Contact
 
